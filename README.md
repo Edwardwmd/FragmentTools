@@ -25,7 +25,7 @@
 ### 第二步：
     dependencies {
             
-	        compile 'com.github.Edwardwmd:FragmentTools:v1.0.0'
+	        compile 'com.github.Edwardwmd:FragmentTools:v1.0.1'
 	}
 
 ### 第三步 Activity继承SupportActivity：
