@@ -1,7 +1,7 @@
 # FragmentTools #
 ##本库是基于Activity和Fragment开发的快速框架库 ##
 ## 主要为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，简化开发，轻松解决动画、嵌套、事务相关等问题。 ##
-# --- 特性 ---#
+# --- 特性 ---
 
 1、可以快速开发出各种嵌套设计的Fragment App
 
