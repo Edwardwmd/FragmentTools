@@ -1,10 +1,9 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 26
     buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "com.wmd.fragmenttools.fragmenttools"
         minSdkVersion 18
         targetSdkVersion 26
         versionCode 1
